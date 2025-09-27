@@ -1,7 +1,9 @@
 ## Multimodal Clinical Monitoring in the Emergency Department (MC-MED) - Dataset information & structure
 
-📁 Due to GitHub's file size limits, datasets are not stored in this repo.
+📁 Note: Due to GitHub’s file size limits and license restrictions, raw datasets are not stored in this repository.
 🔗 Access it directly from [PhysioNet – MC-MED](https://physionet.org/content/mc-med/)
+📜 Dataset licensed under the PhysioNet Credentialed Health Data License 1.5.0 (see LICENSE_PhysioNet.txt)
+
 
 ---
 
